@@ -3,5 +3,5 @@ return {
     ["f59e51d7-c465-4f24-997a-68fcbe74b66f"] = true,
     ["79ec1c37-dbaf-4eba-a29a-72b6c2792d15"] = true,
     ["78e05f54-5614-4f38-b154-c98a9c82fcbd"] = true,
-    ["jgjg"] = true,
+    ["DF52B74A-B972-443E-9880-F2660022E3D9"] = true,
 }
